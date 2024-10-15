@@ -1,0 +1,5 @@
+CrewAI
+langchain
+openai
+python-dotenv
+reportlab
